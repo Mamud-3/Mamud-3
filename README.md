@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MBarrie
+- 👋 Hi, I’m @Mbarrie
 - 👀 I’m interested in developing my skills on various devops tools including github.
 - 🌱 I’m currently learning python, jenkins, ansible, jamfPro, etc.
 - 💞️ I’m looking to collaborate on some amzing projects from my current team and connection.
